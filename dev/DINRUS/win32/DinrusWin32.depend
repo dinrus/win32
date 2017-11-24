@@ -1,0 +1,365 @@
+# depslib dependency file v1.0
+1387406964 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\accctrl.d
+
+1387406961 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\aclapi.d
+
+1387406961 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\aclui.d
+
+1485153464 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\activex.d
+	<std/array.d>
+	<dinrus.d>
+
+1387406963 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\basetsd.d
+
+1387406961 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\basetyps.d
+
+1387406970 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\cderr.d
+
+1387406970 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\cguid.d
+
+1387406964 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\comcat.d
+
+1511495144 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\commctrl.d
+
+1387406963 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\commdlg.d
+
+1387406962 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\core.d
+
+1387406961 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\cpl.d
+
+1387406963 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\cplext.d
+
+1387406961 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\custcntl.d
+
+1387406962 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\dbt.d
+
+1387406961 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\dde.d
+
+1387406961 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\ddeml.d
+
+1387406962 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\dhcpcsdk.d
+
+1387406964 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\directx\d3d10.d
+
+1387406964 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\directx\d3d10effect.d
+
+1387406964 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\directx\d3d10misc.d
+
+1387406964 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\directx\d3d10shader.d
+
+1387406964 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\directx\d3d9.d
+
+1387406964 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\directx\d3d9caps.d
+
+1387406964 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\directx\d3d9types.d
+
+1387406964 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\directx\d3dx10.d
+
+1387406964 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\directx\d3dx10async.d
+
+1387406964 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\directx\d3dx10core.d
+
+1387406964 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\directx\d3dx10math.d
+	<tango/math/Math.d>
+	<dinrus.d>
+
+1387406964 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\directx\d3dx10mesh.d
+
+1387406964 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\directx\d3dx10tex.d
+
+1387406964 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\directx\d3dx9.d
+
+1387406964 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\directx\dinput8.d
+
+1387406964 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\directx\dsound8.d
+
+1387406964 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\directx\dxerr.d
+
+1387406964 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\directx\dxerr8.d
+
+1387406964 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\directx\dxerr9.d
+
+1387406964 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\directx\dxgi.d
+
+1387406964 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\directx\dxgitype.d
+
+1387406970 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\dlgs.d
+
+1387406961 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\docobj.d
+
+1387406963 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\errorrep.d
+
+1387406962 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\exdisp.d
+
+1387406969 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\exdispid.d
+
+1387406962 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\httpext.d
+
+1387406964 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\idispids.d
+
+1387406963 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\imagehlp.d
+
+1387406961 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\imm.d
+
+1387406960 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\intshcut.d
+
+1387406963 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\ipexport.d
+
+1387406963 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\iphlpapi.d
+
+1387406963 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\ipifcons.d
+
+1387406961 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\iprtrmib.d
+
+1387406963 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\iptypes.d
+	<dinrus.d>
+
+1387406960 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\isguids.d
+
+1387406970 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\lm.d
+
+1387406963 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\lmaccess.d
+
+1387406961 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\lmalert.d
+
+1387406960 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\lmapibuf.d
+
+1387406962 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\lmat.d
+
+1387406970 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\lmaudit.d
+
+1387406960 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\lmbrowsr.d
+
+1387406961 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\lmchdev.d
+
+1387406970 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\lmconfig.d
+
+1387406963 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\lmcons.d
+
+1387406962 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\lmerr.d
+
+1387406969 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\lmerrlog.d
+
+1387406970 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\lmmsg.d
+
+1387406970 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\lmremutl.d
+
+1387406970 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\lmrepl.d
+	<path.d>
+	<list.d>
+
+1387406961 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\lmserver.d
+
+1387406962 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\lmshare.d
+
+1387406961 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\lmsname.d
+
+1387406961 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\lmstats.d
+
+1387406961 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\lmsvc.d
+
+1387406963 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\lmuse.d
+
+1387406961 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\lmuseflg.d
+
+1387406961 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\lmwksta.d
+
+1387406962 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\lzexpand.d
+
+1387406970 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\mapi.d
+
+1387406960 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\mciavi.d
+
+1387406961 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\mcx.d
+
+1387406962 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\mgmtapi.d
+
+1387406970 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\mmsystem.d
+
+1387406970 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\msacm.d
+
+1387406962 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\mshtml.d
+
+1387406963 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\mswsock.d
+
+1387406962 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\nb30.d
+
+1387406963 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\nddeapi.d
+
+1387406961 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\nspapi.d
+
+1387406969 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\ntdef.d
+
+1387406970 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\ntdll.d
+
+1387406970 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\ntldap.d
+
+1387406962 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\ntsecapi.d
+
+1387406961 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\oaidl.d
+
+1387406963 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\objbase.d
+
+1387406962 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\objfwd.d
+
+1387406964 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\objidl.d
+
+1387406962 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\objsafe.d
+
+1387406963 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\ocidl.d
+
+1387406961 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\odbcinst.d
+
+1387406970 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\ole.d
+
+1387406963 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\ole2.d
+
+1387406970 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\ole2ver.d
+
+1387406962 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\oleacc.d
+
+1387406970 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\oleauto.d
+
+1387406961 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\olectl.d
+
+1387406960 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\olectlid.d
+
+1387406962 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\oledlg.d
+
+1387406960 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\oleidl.d
+
+1387406962 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\pbt.d
+
+1387406963 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\powrprof.d
+
+1387406961 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\prsht.d
+
+1387406961 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\psapi.d
+
+1387406970 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\rapi.d
+
+1387406969 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\ras.d
+
+1387406963 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\rasdlg.d
+
+1387406969 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\raserror.d
+
+1387406960 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\rassapi.d
+
+1387406963 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\reason.d
+
+1387406962 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\regstr.d
+
+1387406970 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\richedit.d
+
+1387406963 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\richole.d
+
+1387406962 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\rpc.d
+
+1387406969 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\rpcdce.d
+
+1387406963 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\rpcdce2.d
+
+1387406962 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\rpcdcep.d
+
+1387406963 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\rpcndr.d
+
+1387406970 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\rpcnsi.d
+
+1387406961 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\rpcnsip.d
+
+1387406962 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\rpcnterr.d
+
+1387406962 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\schannel.d
+
+1387406963 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\secext.d
+
+1387406963 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\servprov.d
+
+1387406961 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\setupapi.d
+
+1387406963 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\shellapi.d
+
+1387406962 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\shldisp.d
+
+1387406963 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\shlguid.d
+
+1387406969 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\shlobj.d
+
+1387406962 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\shlwapi.d
+
+1387406969 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\snmp.d
+
+1450997109 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\sql.d
+
+1387406962 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\sqlext.d
+
+1387406970 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\sqltypes.d
+
+1387406963 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\sqlucode.d
+
+1387406969 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\subauth.d
+
+1387406962 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\testall.d
+
+1387406963 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\tlhelp32.d
+
+1387406963 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\tmschema.d
+
+1387406970 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\unknwn.d
+
+1387406960 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\usp10.d
+
+1387406960 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\uuid.d
+
+1387406964 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\vfw.d
+
+1387406969 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\w32api.d
+
+1387406969 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\winbase.d
+
+1387406970 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\winber.d
+
+1387406961 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\wincon.d
+
+1387406970 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\wincrypt.d
+
+1387406969 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\windef.d
+
+1387406961 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\windows.d
+
+1387406960 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\winerror.d
+
+1387406969 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\wingdi.d
+
+1387406961 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\wininet.d
+
+1387406970 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\winioctl.d
+
+1387406963 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\winldap.d
+	<tango/stdc/stdio.d>
+
+1387406970 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\winnetwk.d
+
+1387406969 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\winnls.d
+
+1387406963 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\winnt.d
+
+1387406962 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\winperf.d
+
+1387406961 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\winreg.d
+
+1387406962 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\winsock2.d
+
+1387406962 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\winspool.d
+
+1387406961 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\winsvc.d
+
+1387406969 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\winuser.d
+
+1387406970 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\winver.d
+
+1387406963 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\ws2tcpip.d
+
+1387406962 source:d:\dinrus\dev\dinrus\win32\dinruswin32\src\wtypes.d
+
